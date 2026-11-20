@@ -1,0 +1,1 @@
+Extract Kifayah Mart customer support details into strict JSON with keys: scenario, priority, order_id, item, action_needed. Valid scenarios: QUALITY_DAMAGED, ORDER_EDIT, PAYMENT_RECONCILE, PRICE_MISMATCH, POLICY_QUERY, OUT_OF_SCOPE. Valid priorities: P1, P2, P3, P4. Use null if missing. Output valid JSON only.
